@@ -1,4 +1,4 @@
-# array-click-gallery
+# Array Click Gallery
 
 Create an art gallery using *arrays* and the event listener *onclick*!
 
